@@ -1,0 +1,180 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "type": "file",
+            "path": "/etc/ld.so.cache"
+        },
+        {
+            "id": "1",
+            "type": "process",
+            "pname": "wget"
+        },
+        {
+            "id": "2",
+            "type": "process",
+            "pname": "python3"
+        },
+        {
+            "id": "3",
+            "type": "file",
+            "path": "/usr/lib/locale/C.utf8/LC_CTYPE"
+        },
+        {
+            "id": "4",
+            "type": "file",
+            "path": "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache"
+        },
+        {
+            "id": "5",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libc.so.6"
+        },
+        {
+            "id": "6",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libffi.so.8"
+        },
+        {
+            "id": "7",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libgmp.so.10"
+        },
+        {
+            "id": "8",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libgnutls.so.30"
+        },
+        {
+            "id": "9",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libhogweed.so.6"
+        },
+        {
+            "id": "10",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libidn2.so.0"
+        },
+        {
+            "id": "11",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libnettle.so.8"
+        },
+        {
+            "id": "12",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libp11-kit.so.0"
+        },
+        {
+            "id": "13",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libtasn1.so.6"
+        },
+        {
+            "id": "14",
+            "type": "file",
+            "path": "/lib/x86_64-linux-gnu/libunistring.so.2"
+        },
+        {
+            "id": "15",
+            "type": "ipv4_socket"
+        },
+        {
+            "id": "16",
+            "type": "file",
+            "path": "/tmp/wget-1.17/testenv/Cookie Domain Mismatch-test/File1"
+        },
+        {
+            "id": "17",
+            "type": "file",
+            "path": "/tmp/wget-1.17/testenv/Cookie Domain Mismatch-test/File2"
+        }
+    ],
+    "links": [
+        {
+            "source": "0",
+            "target": "1",
+            "syscall": "openat"
+        },
+        {
+            "source": "1",
+            "target": "2",
+            "syscall": "execve"
+        },
+        {
+            "source": "1",
+            "target": "3",
+            "syscall": "openat"
+        },
+        {
+            "source": "1",
+            "target": "4",
+            "syscall": "openat"
+        },
+        {
+            "source": "1",
+            "target": "5",
+            "syscall": "pread"
+        },
+        {
+            "source": "1",
+            "target": "6",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "7",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "8",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "9",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "10",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "11",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "12",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "13",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "14",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "15",
+            "syscall": "read"
+        },
+        {
+            "source": "1",
+            "target": "16",
+            "syscall": "write"
+        },
+        {
+            "source": "1",
+            "target": "17",
+            "syscall": "write"
+        }
+    ]
+}

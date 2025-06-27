@@ -1,0 +1,645 @@
+{
+    "nodes": [
+        {
+            "pid": "5964",
+            "pname": "runc:[1:CHILD]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[1:CHILD]__5964"
+        },
+        {
+            "path": "/proc/self/fd/6",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/proc/self/fd/6"
+        },
+        {
+            "pid": "5966",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__5966"
+        },
+        {
+            "pid": "5967",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__5967"
+        },
+        {
+            "pid": "5968",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__5968"
+        },
+        {
+            "pid": "5969",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__5969"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libtinfo.so.6",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libtinfo.so.6"
+        },
+        {
+            "path": "/dev/tty",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/dev/tty"
+        },
+        {
+            "path": "/etc/nsswitch.conf",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/nsswitch.conf"
+        },
+        {
+            "path": "/etc/bash.bashrc",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/bash.bashrc"
+        },
+        {
+            "pid": "6079",
+            "pname": "bash",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "bash__6079"
+        },
+        {
+            "pid": "6079",
+            "pname": "groups",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "groups__6079"
+        },
+        {
+            "path": "/etc/group",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/group"
+        },
+        {
+            "path": "/dev/pts/0",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/dev/pts/0"
+        },
+        {
+            "pid": "6081",
+            "pname": "bash",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "bash__6081"
+        },
+        {
+            "pid": "6081",
+            "pname": "dircolors",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "dircolors__6081"
+        },
+        {
+            "path": "/etc/inputrc",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/inputrc"
+        },
+        {
+            "pid": "6484",
+            "pname": "runc",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc__6484"
+        },
+        {
+            "pid": "6493",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__6493"
+        },
+        {
+            "pid": "6495",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__6495"
+        },
+        {
+            "pid": "6494",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__6494"
+        },
+        {
+            "pid": "6496",
+            "pname": "runc:[2:INIT]",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "runc:[2:INIT]__6496"
+        },
+        {
+            "pid": "6492",
+            "pname": "wget",
+            "type": "process",
+            "host": "cve-2016-4971_wget_1",
+            "id": "wget__6492"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libnettle.so.8",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libnettle.so.8"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libgnutls.so.30",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libgnutls.so.30"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libp11-kit.so.0",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libp11-kit.so.0"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libidn2.so.0",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libidn2.so.0"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libunistring.so.2",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libunistring.so.2"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libtasn1.so.6",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libtasn1.so.6"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libhogweed.so.6",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libhogweed.so.6"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libgmp.so.10",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libgmp.so.10"
+        },
+        {
+            "path": "/lib/x86_64-linux-gnu/libffi.so.8",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libffi.so.8"
+        },
+        {
+            "path": "/usr/local/etc/wgetrc",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/usr/local/etc/wgetrc"
+        },
+        {
+            "path": "/etc/host.conf",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/host.conf"
+        },
+        {
+            "path": "/etc/resolv.conf",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/resolv.conf"
+        },
+        {
+            "path": "/etc/hosts",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/etc/hosts"
+        },
+        {
+            "path": "127.0.0.1:56041->127.0.0.11:53",
+            "type": "ipv4_socket",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__127.0.0.1:56041->127.0.0.11:53"
+        },
+        {
+            "path": "172.21.0.3:35700->172.21.0.2:80",
+            "type": "ipv4_socket",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__172.21.0.3:35700->172.21.0.2:80"
+        },
+        {
+            "path": "/tmp/ipscan_3.5.5_amd64.deb",
+            "type": "file",
+            "host": "cve-2016-4971_wget_1",
+            "id": "cve-2016-4971_wget_1__/tmp/ipscan_3.5.5_amd64.deb"
+        },
+        {
+            "id": "Compressed_wget"
+        }
+    ],
+    "links": [
+        {
+            "ts": "12:29:47.997397469",
+            "syscall": "write",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "runc:[1:CHILD]__5964",
+            "target": "cve-2016-4971_wget_1__/proc/self/fd/6"
+        },
+        {
+            "ts": "12:29:47.999248572",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libtinfo.so.6"
+        },
+        {
+            "ts": "12:29:47.999534985",
+            "syscall": "openat",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/dev/tty"
+        },
+        {
+            "ts": "12:29:47.999748649",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/etc/nsswitch.conf"
+        },
+        {
+            "ts": "12:29:47.999855561",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/etc/bash.bashrc"
+        },
+        {
+            "ts": "12:29:48.000089723",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "Compressed_wget",
+            "target": "bash__6079"
+        },
+        {
+            "ts": "12:29:48.000558583",
+            "syscall": "execve",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "Compressed_wget",
+            "target": "groups__6079"
+        },
+        {
+            "ts": "12:29:48.002865644",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "Compressed_wget",
+            "target": "bash__6081"
+        },
+        {
+            "ts": "12:29:48.003107488",
+            "syscall": "execve",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "Compressed_wget",
+            "target": "dircolors__6081"
+        },
+        {
+            "ts": "12:29:48.005013883",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/etc/inputrc"
+        },
+        {
+            "ts": "12:29:48.005142451",
+            "syscall": "write",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "Compressed_wget",
+            "target": "cve-2016-4971_wget_1__/dev/pts/0"
+        },
+        {
+            "ts": "12:29:48.001829836",
+            "syscall": "openat",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "groups__6079",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:29:48.001845850",
+            "syscall": "pread",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "groups__6079",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:29:48.002048556",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "groups__6079",
+            "target": "cve-2016-4971_wget_1__/etc/nsswitch.conf"
+        },
+        {
+            "ts": "12:29:48.002064247",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "groups__6079",
+            "target": "cve-2016-4971_wget_1__/etc/group"
+        },
+        {
+            "ts": "12:29:48.002071057",
+            "syscall": "write",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "groups__6079",
+            "target": "cve-2016-4971_wget_1__/dev/pts/0"
+        },
+        {
+            "ts": "12:29:48.004253353",
+            "syscall": "openat",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "dircolors__6081",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:29:48.004271997",
+            "syscall": "pread",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "dircolors__6081",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:29:48.004442852",
+            "syscall": "write",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "dircolors__6081",
+            "target": "cve-2016-4971_wget_1__/dev/pts/0"
+        },
+        {
+            "ts": "12:30:51.534014822",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "runc__6484",
+            "target": "runc:[2:INIT]__6493"
+        },
+        {
+            "ts": "12:30:51.534047112",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "runc__6484",
+            "target": "runc:[2:INIT]__6495"
+        },
+        {
+            "ts": "12:30:51.534150426",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "runc__6484",
+            "target": "runc:[2:INIT]__6494"
+        },
+        {
+            "ts": "12:30:51.534626732",
+            "syscall": "clone",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "runc__6484",
+            "target": "runc:[2:INIT]__6496"
+        },
+        {
+            "ts": "12:30:51.550148229",
+            "syscall": "execve",
+            "success": true,
+            "source_type": "process",
+            "target_type": "process",
+            "source": "runc__6484",
+            "target": "wget__6492"
+        },
+        {
+            "ts": "12:30:51.556441940",
+            "syscall": "openat",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:30:51.556461536",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libnettle.so.8"
+        },
+        {
+            "ts": "12:30:51.556641841",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libgnutls.so.30"
+        },
+        {
+            "ts": "12:30:51.556681301",
+            "syscall": "pread",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "Compressed_wget"
+        },
+        {
+            "ts": "12:30:51.556712906",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libp11-kit.so.0"
+        },
+        {
+            "ts": "12:30:51.556894622",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libidn2.so.0"
+        },
+        {
+            "ts": "12:30:51.556922605",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libunistring.so.2"
+        },
+        {
+            "ts": "12:30:51.557154470",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libtasn1.so.6"
+        },
+        {
+            "ts": "12:30:51.557215730",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libhogweed.so.6"
+        },
+        {
+            "ts": "12:30:51.557248121",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libgmp.so.10"
+        },
+        {
+            "ts": "12:30:51.557439320",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/lib/x86_64-linux-gnu/libffi.so.8"
+        },
+        {
+            "ts": "12:30:51.559574743",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/usr/local/etc/wgetrc"
+        },
+        {
+            "ts": "12:30:51.560342912",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/etc/nsswitch.conf"
+        },
+        {
+            "ts": "12:30:51.560851320",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/etc/host.conf"
+        },
+        {
+            "ts": "12:30:51.560866891",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/etc/resolv.conf"
+        },
+        {
+            "ts": "12:30:51.560883657",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/etc/hosts"
+        },
+        {
+            "ts": "12:30:51.562537296",
+            "syscall": "recvfrom",
+            "success": true,
+            "source_type": "process",
+            "target_type": "ipv4_socket",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__127.0.0.1:56041->127.0.0.11:53"
+        },
+        {
+            "ts": "12:30:51.686983448",
+            "syscall": "read",
+            "success": true,
+            "source_type": "process",
+            "target_type": "ipv4_socket",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__172.21.0.3:35700->172.21.0.2:80"
+        },
+        {
+            "ts": "12:30:51.686988427",
+            "syscall": "write",
+            "success": true,
+            "source_type": "process",
+            "target_type": "file",
+            "source": "wget__6492",
+            "target": "cve-2016-4971_wget_1__/tmp/ipscan_3.5.5_amd64.deb"
+        }
+    ]
+}
